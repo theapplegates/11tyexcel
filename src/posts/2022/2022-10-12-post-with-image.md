@@ -11,11 +11,11 @@ credit: Lene took this photo.
 
 <img webc:is="eleventy-image" width="600,1000" sizes="100vw" src="img/schalo-gallardo-radiocity.jpg" formats="avif,webp,jpeg" alt="Radio City Music Hall.">
 
-{% image "./src/assets/images/blog/chalo-gallardo-radiocity.jpg", "", "" %}
+{% image "img/chalo-gallardo-radiocity.jpg", "", "" %}
 
-{% image "./src/assets/images/blog/italy.jpg", "alt text", "" %}
+{% image "img/italy.jpg", "alt text", "" %}
 
-{% image "./src/assets/images/blog/sheng-hu-ln.jpg", "alt text", "" %}
+{% image "img/sheng-hu-ln.jpg", "alt text", "" %}
 
 This starter uses Eleventy's build-time image transformations.
 
