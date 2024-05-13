@@ -12,7 +12,7 @@ This starter uses Eleventy's build-time image transformations.
 
 Find more info on https://www.11ty.dev/docs/plugins/image/ and edit settings in `config/shortcodes/image`.
 
-## Syntax
+## Syntax time
 
 In the most basic version it contains the path to the image, alt text (can be an empty string if the image is decorative), and may hold a caption.
 
