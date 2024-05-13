@@ -7,6 +7,15 @@ image: './src/assets/images/gallery/asturias-1.jpg'
 alt: 'A picturesque valley showcasing majestic mountains and lush forests, creating a serene and captivating landscape'
 credit: Lene took this photo.
 ---
+<img webc:is="eleventy-image" width="600,1000" sizes="100vw" src="img/sheng-hu-ln.jpg" formats="avif,webp,jpeg" alt="A photo the beautiful aurora borealis.">
+
+<img webc:is="eleventy-image" width="600,1000" sizes="100vw" src="img/schalo-gallardo-radiocity.jpg" formats="avif,webp,jpeg" alt="Radio City Music Hall.">
+
+{% image "./src/assets/images/blog/chalo-gallardo-radiocity.jpg", "", "" %}
+
+{% image "./src/assets/images/blog/italy.jpg", "alt text", "" %}
+
+{% image "./src/assets/images/blog/sheng-hu-ln.jpg", "alt text", "" %}
 
 This starter uses Eleventy's build-time image transformations.
 
