@@ -8,11 +8,11 @@ alt: 'A picturesque valley showcasing majestic mountains and lush forests, creat
 credit: Lene took this photo.
 ---
 
-{% image "img/chalo-gallardo-radiocity.jpg", "Hi", "" %}
+{% image "./src/assets/images/gallery/chalo-gallardo-radiocity.jpg", "Hi", "" %}
 
-{% image "img/italy.jpg", "alt text", "" %}
+{% image "./src/assets/images/gallery/italy.jpg", "alt text", "" %}
 
-{% image "img/sheng-hu-ln.jpg", "alt text", "" %}
+{% image "./src/assets/images/gallery/sheng-hu-ln.jpg", "alt text", "" %}
 
 This starter uses Eleventy's build-time image transformations.
 
