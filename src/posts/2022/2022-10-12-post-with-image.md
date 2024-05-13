@@ -7,11 +7,8 @@ image: './src/assets/images/gallery/asturias-1.jpg'
 alt: 'A picturesque valley showcasing majestic mountains and lush forests, creating a serene and captivating landscape'
 credit: Lene took this photo.
 ---
-<img webc:is="eleventy-image" width="600,1000" sizes="100vw" src="img/sheng-hu-ln.jpg" formats="avif,webp,jpeg" alt="A photo the beautiful aurora borealis.">
 
-<img webc:is="eleventy-image" width="600,1000" sizes="100vw" src="img/schalo-gallardo-radiocity.jpg" formats="avif,webp,jpeg" alt="Radio City Music Hall.">
-
-{% image "img/chalo-gallardo-radiocity.jpg", "", "" %}
+{% image "img/chalo-gallardo-radiocity.jpg", "Hi", "" %}
 
 {% image "img/italy.jpg", "alt text", "" %}
 
