@@ -5,14 +5,6 @@ date: 2022-09-01
 tags: ['sytnax highlighting', 'feature']
 ---
 
-<unpic-img
-  webc:import="npm:@unpic/webc"
-  src="https://res.cloudinary.com/paulapplegate-com/image/upload/v1714600567/israel-ferrera_eljotz.jpg"
-  layout="constrained"
-  width="1000"
-  height="800"
-  alt="Italy"
-></unpic-img>
 <img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/dpr_auto,f_auto,q_auto/hillshire-farm-2_fx2mno.jpg" class="cld-responsive">
 
 <img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/dpr_auto,f_auto,q_auto/claudio-schwarz-b_qczKSP_X4-unsplash_hozv15.jpg" class="cld-responsive">
