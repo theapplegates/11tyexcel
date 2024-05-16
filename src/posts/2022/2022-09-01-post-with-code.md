@@ -5,6 +5,23 @@ date: 2022-09-01
 tags: ['sytnax highlighting', 'feature']
 ---
 
+<unpic-img
+  webc:import="npm:@unpic/webc"
+  src="https://res.cloudinary.com/paulapplegate-com/image/upload/v1714600567/israel-ferrera_eljotz.jpg"
+  layout="constrained"
+  width="1000"
+  height="800"
+  alt="Italy"
+></unpic-img>
+<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/dpr_auto,f_auto,q_auto/hillshire-farm-2_fx2mno.jpg" class="cld-responsive">
+
+<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/dpr_auto,f_auto,q_auto/claudio-schwarz-b_qczKSP_X4-unsplash_hozv15.jpg" class="cld-responsive">
+<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/dpr_auto,f_auto,q_auto/DaPlane.jpg" class="cld-responsive">
+<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/dpr_auto,f_auto,q_auto/i0dohywpq5oldnhgleze.jpg" class="cld-responsive">
+
+
+
+
 This theme uses 11ty's [Syntax Highlighting Plugin](https://www.11ty.dev/docs/plugins/syntaxhighlight/), a pack of Eleventy plugins for PrismJS syntax highlighting. No browser/client JavaScript, highlight transformations are all done at build-time.
 
 ```js
