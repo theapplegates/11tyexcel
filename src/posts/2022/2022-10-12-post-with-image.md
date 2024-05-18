@@ -8,6 +8,9 @@ alt: 'A picturesque valley showcasing majestic mountains and lush forests, creat
 credit: Lene took this photo.
 ---
 
+<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/dpr_auto/smiling_man.jpg" class="cld-responsive">
+
+
 {% image "./src/assets/images/gallery/chalo-gallardo-radiocity.jpg", "Hi", "" %}
 
 {% image "./src/assets/images/gallery/italy.jpg", "alt text", "" %}
