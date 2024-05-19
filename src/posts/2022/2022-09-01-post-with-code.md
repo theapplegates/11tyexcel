@@ -5,6 +5,8 @@ date: 2022-09-01
 tags: ['sytnax highlighting', 'feature']
 ---
 
+<img src="/assets/images/Beautiful_Italy.jpg" alt="A photo of Italy" />
+
 <img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/dpr_auto,f_auto,q_auto/hillshire-farm-2_fx2mno.jpg" class="cld-responsive">
 
 <img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/dpr_auto,f_auto,q_auto/claudio-schwarz-b_qczKSP_X4-unsplash_hozv15.jpg" class="cld-responsive">
