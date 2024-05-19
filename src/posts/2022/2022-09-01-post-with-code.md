@@ -4,8 +4,9 @@ description: 'Syntax Highlighting is achieved by a pack of Eleventy plugins. No 
 date: 2022-09-01
 tags: ['sytnax highlighting', 'feature']
 ---
+![Italy](https://applegate-paul.mo.cloudinary.net/zoom/Beautiful_Italy.jpg)
 
-<img src="/assets/images/Beautiful_Italy.jpg" alt="A photo of Italy" />
+![Italy 2](https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit/dpr_auto/f_auto,q_auto/w_auto:breakpoints_200_1920_30_15/Beautiful_Italy.jpg)
 
 <img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/dpr_auto,f_auto,q_auto/hillshire-farm-2_fx2mno.jpg" class="cld-responsive">
 
